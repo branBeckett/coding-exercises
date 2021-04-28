@@ -1,2 +1,2 @@
 # Coding Exercises
-Various coding exercises in Python, SQL, regex, and more.
+This repository contains my solutions to various coding exercises in Python, SQL, regex, and more.
